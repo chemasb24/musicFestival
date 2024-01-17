@@ -1,0 +1,12 @@
+body{
+    font-family: "Merryweather", sans-serif;
+}
+
+i{
+    margin-right: 20px;
+}
+
+/* IDS and Classes*/
+.shadowed{
+    text-shadow: 2px 2px 8px #FF0000;
+}
